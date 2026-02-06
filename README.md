@@ -4,13 +4,20 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice) - add correct repo link
 
-<h2> 📜 Certifications: 
-• CompTIA CySA+
-• CompTIA Security+
-• CompTIA Network+
-• CompTIA A+
-• (ISC)² Associate – SSCP
-• ITIL Foundation Certificate in IT Service Management
+<h2> 📜 Certifications: </h2>
+  
+ - [CompTIA CySA+](https://cp.certmetrics.com/comptia/en/public/verify/credential/TGTT8D56L2QEQHK2)
+   Verification ID: TGTT8D56L2QEQHK2
+ - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/M8FRZNYYKJF11ZSE)
+   Verification ID: M8FRZNYYKJF11ZSE
+ - [CompTIA Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/Q3G4THFYZEBEQ7SS)
+   Verification ID: Q3G4THFYZEBEQ7SS
+ - [CompTIA A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/1TR5JH8RNJBQQM9K)
+   Verification ID:  1TR5JH8RNJBQQM9K
+ - [ITIL® 4 Foundation Certificate in IT Service Management](https://www.peoplecert.org/for-corporations/certificate-verification-service)
+   Certificate Number: GR671792694IE
+  - [(ISC)² Associate – SSCP](https://www.credly.com/badges/1b82cfff-8c7c-473b-ad1d-eb23c3c22da0/public_url)
+
   
 <h2> 🤳 Connect with me:</h2>
 
