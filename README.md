@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice) - add correct repo link
-
 <h2> 📜 Certifications: </h2>
   
  - [CompTIA CySA+](https://cp.certmetrics.com/comptia/en/public/verify/credential/TGTT8D56L2QEQHK2)
