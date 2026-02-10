@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+ - [Splunk SIEM Home Lab](https://github.com/AliaElf/splunk-siem-homelab)
+
 <h2> 📜 Certifications: </h2>
   
  - [CompTIA CySA+](https://cp.certmetrics.com/comptia/en/public/verify/credential/TGTT8D56L2QEQHK2)
