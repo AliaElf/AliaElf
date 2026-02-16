@@ -17,7 +17,7 @@
  - [ITIL® 4 Foundation Certificate in IT Service Management](https://www.peoplecert.org/for-corporations/certificate-verification-service)
    Certificate Number: GR671792694IE
   - [(ISC)² Associate – SSCP](https://www.credly.com/badges/1b82cfff-8c7c-473b-ad1d-eb23c3c22da0/public_url)
-  - [LPI Linus Essentials](lpi.org/v/LPI000681482/x2gb7k9ayx) LPI ID:   LPI000681482
+  - [LPI Linux Essentials](lpi.org/v/LPI000681482/x2gb7k9ayx) LPI ID:   LPI000681482
 
 
   
