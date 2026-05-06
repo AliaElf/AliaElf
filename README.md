@@ -5,7 +5,9 @@
  - [Splunk SIEM Home Lab](https://github.com/AliaElf/splunk-siem-homelab)
 
 <h2> 📜 Certifications: </h2>
-  
+
+ - [CompTIA Pentest+](https://cp.certmetrics.com/comptia/en/public/verify/credential/be738db348fe4215826f9b2f80af8436)
+   Verification ID: be738db348fe4215826f9b2f80af8436
  - [CompTIA CySA+](https://cp.certmetrics.com/comptia/en/public/verify/credential/TGTT8D56L2QEQHK2)
    Verification ID: TGTT8D56L2QEQHK2
  - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/M8FRZNYYKJF11ZSE)
@@ -18,7 +20,8 @@
    Certificate Number: GR671792694IE
   - [(ISC)² Associate – SSCP](https://www.credly.com/badges/1b82cfff-8c7c-473b-ad1d-eb23c3c22da0/public_url)
   - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000681482/x2gb7k9ayx) LPI ID:   LPI000681482
-
+  - [CompTIA Data+](https://cp.certmetrics.com/comptia/en/public/verify/credential/48dca297b36340f4af5851a658f1b4a1)
+   Verification ID: 48dca297b36340f4af5851a658f1b4a1
 
   
 <h2> 🤳 Connect with me:</h2>
